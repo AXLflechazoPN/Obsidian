@@ -1,0 +1,2 @@
+# 这是一个关于obsidian图床放置的地方
+在obsidian中emo插件来把图片放置到github上面
